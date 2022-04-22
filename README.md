@@ -1,7 +1,7 @@
 <H1>Hi, do you always come here? 😄</H1>
 
 <div inline block>
-  <img src="https://user-images.githubusercontent.com/83100757/164801177-ba62b0b4-576b-46f2-9cb4-b56e5db35608.png" align='right' width=500 margin-top="200">
+  <a href='https://github.com/lugabrielll' ><img src="https://user-images.githubusercontent.com/83100757/164801177-ba62b0b4-576b-46f2-9cb4-b56e5db35608.png" align='right' width=400 margin-top="200"></a>
 * My name is Lucas Gabriel  👋 </p>
 * I'm learning to develop software... 🎓</p>
 * I want to follow the front-end, design and UX/UI area... 💻 💡 💼</p>
