@@ -22,7 +22,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lugabrielll&show_icons=true&theme=radical)
 <h2>
+
 <h3>Contributed Project 🕹</h3><br>
+
 <p align="start">
-  <a href="https://github.com/distopia-jogo/distopia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=distopia-jogo&layout=compact&theme=tokyonight&hide&repo=distopia"></a>
-</p>
+  <a href="https://github.com/distopia-jogo/distopia"><img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=distopia-jogo&layout=compact&theme=tokyonight&hide&repo=distopia"> </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+<img width="290" src="https://user-images.githubusercontent.com/82424514/169671559-40a67bb8-f060-4abe-b23f-3fcbe442ff45.gif">
