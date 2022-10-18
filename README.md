@@ -33,4 +33,4 @@
   &nbsp;
   &nbsp;
   &nbsp;
-<img width="290" src="https://user-images.githubusercontent.com/82424514/169671559-40a67bb8-f060-4abe-b23f-3fcbe442ff45.gif">
+<img width="300" src="https://user-images.githubusercontent.com/82424514/169671559-40a67bb8-f060-4abe-b23f-3fcbe442ff45.gif">
