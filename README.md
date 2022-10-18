@@ -3,7 +3,7 @@
 <div inline block>
  <a href='https://github.com/lugabrielll' ><img src="https://user-images.githubusercontent.com/83100757/164801177-ba62b0b4-576b-46f2-9cb4-b56e5db35608.png" align='right' width=400></a>
 
-* My name is Lucas Gabriel  👋 </p>
+* My name is Lucas Gabriel   <img width='25' src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif'> </p>
 * I'm learning to develop software... 🎓</p>
 * I want to follow the front-end, design and UX/UI area... 💻 💡 💼</p>
 </div>
@@ -21,3 +21,8 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lugabrielll&show_icons=true&theme=radical)
+<h2>
+<h3>Contributed Project 🕹</h3><br>
+<p align="start">
+  <a href="https://github.com/distopia-jogo/distopia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=distopia-jogo&layout=compact&theme=tokyonight&hide&repo=distopia"></a>
+</p>
